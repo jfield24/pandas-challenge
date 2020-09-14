@@ -1,7 +1,3 @@
-# pandas-challenge
-
-In this assignment I conducted a thorough analysis of a school district's data using Pandas (JupyterLab).
-
 Through conducting this analysis I was able to make some of observations about trends in the data.
 
 Firstly, my analysis grouping school results based on average school spending per student yielded surprising results.
